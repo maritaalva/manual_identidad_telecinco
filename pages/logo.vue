@@ -8,9 +8,7 @@
    <p> Se ha generado una animación para acostumbrar a 
     los espectadores al rebranding durante los primeros meses.
     </p>
- <video id="background-video" autoplay loop muted>
-<source src="../assets/videos/CONSTRUCCION_LOGO.mp4" type="video/mp4">
-</video>
+
         <h3>Construcción</h3>
 <p>
     Como se ha explicado anteriormente, la tipografía ha 

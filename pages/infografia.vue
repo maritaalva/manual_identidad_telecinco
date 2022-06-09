@@ -6,10 +6,7 @@
     y colores de la identidad. Colores secundarios para contrastar datos
     </p>
     
-   <video id="background-video" autoplay loop muted>
-<source src="../assets/videos/grafico.mp4" type="video/mp4">
-</video>
-    
+
 </div>
 </template>
 

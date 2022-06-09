@@ -9,10 +9,6 @@ En conjunto, Una plantilla para tener en cuenta
  los márgenes de seguridad en televisión.
     </p>
         <img src="/ly_layout.svg" alt="cambio color telecinco" class="">
-
-   <video id="background-video" autoplay loop muted>
-<source src="../assets/videos/GRID_CONSTRUCCION.mp4" type="video/mp4">
-</video>    
 </div>
 </template>
 
