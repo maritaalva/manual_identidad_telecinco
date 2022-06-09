@@ -47,7 +47,7 @@
     }
 </script>
 
-<style lang="postcss">
+<style lang="postcss" scoped>
 .side-bar{
     scroll-behavior: smooth;
      background-color: $blanco;
